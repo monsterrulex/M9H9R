@@ -1,2 +1,2 @@
-from BIGR9 import superuser
+from M0NST3R import superuser
 superuser()
