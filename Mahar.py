@@ -1,2 +1,2 @@
-from Mahar import menu
-menu()
+from Mahar import superuser
+superuser()
